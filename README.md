@@ -59,6 +59,21 @@ DATABASE_FILEPATH="data/cesium_arcgis_db.json"
 
 The server and client scripts will automatically load these variables.
 
+## 🔑 Cesium Ion Setup
+
+Before running the client, you must configure your **Cesium Ion Access Token** to load 3D tilesets and terrain data properly.
+
+1. Get a free token from [Cesium Ion](https://ion.cesium.com/).
+2. Open your client JavaScript file (e.g., `script.js`).
+3. Replace `'YOUR_CESIUM_ION_TOKEN_HERE'` in the `config` object with your actual token:
+
+
+```const config = {
+    IP: 'localhost:8082',  // Server IP and port
+    CESIUM_ION_TOKEN: 'YOUR_CESIUM_ION_TOKEN_HERE',  // Replace with your actual Cesium Ion access token
+};
+```
+
 -----
 
 ## 🎮 Usage
