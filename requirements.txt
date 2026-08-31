@@ -1,0 +1,13 @@
+numpy
+flask
+flask-socketio
+eventlet
+opencv-python
+pyproj
+scikit-spatial
+requests
+pandas
+pymongo
+cbor2
+python-dotenv
+matplotlib
