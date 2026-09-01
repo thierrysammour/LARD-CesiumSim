@@ -119,12 +119,30 @@ The server exposes several HTTP endpoints to control the CesiumJS client.
 
 -----
 
+## 📚 Citation
+
+If you use LARD - CesiumSim in your research, please cite this repository using the following formats:
+
+```bibtex
+@misc{sammoursawaya2026lardcesiumsim,
+  author = {Sammour, Thierry},
+  title = {LARD - CesiumSim: Remote Control and Frame Capture Server for CesiumJS},
+  year = {2026},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/thierrysammour/LARD - CesiumSim}}
+}
+```
+-----
+
 ## 📄 Licensing & Commercial Usage
 
 This repository is licensed under the **PolyForm Noncommercial License 1.0.0**. 
 
 * **Academic & Research Use:** Completely free for academic, personal, and non-commercial scientific research.
 * **Commercial Use:** The standard license explicitly prohibits commercial deployment, integration into paid products, or use within enterprise production workflows.
+
+-----
 
 ### 💼 Commercial Licensing Options
 
