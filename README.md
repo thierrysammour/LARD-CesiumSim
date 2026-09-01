@@ -124,7 +124,7 @@ The server exposes several HTTP endpoints to control the CesiumJS client.
 If you use LARD - CesiumSim in your research, please cite this repository using the following formats:
 
 ```bibtex
-@misc{sammoursawaya2026lardcesiumsim,
+@misc{sammourthierry2026lardcesiumsim,
   author = {Sammour, Thierry},
   title = {LARD - CesiumSim: Remote Control and Frame Capture Server for CesiumJS},
   year = {2026},
