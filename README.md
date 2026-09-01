@@ -1,6 +1,8 @@
 # 🚀 LARD - CesiumSim
 
-This project provides a backend server to remotely control a CesiumJS 3D globe instance and capture rendered frames. It uses a Flask-SocketIO server for real-time, bidirectional communication and a simple RESTful API for control.
+This project provides a backend server to remotely control a CesiumJS 3D globe instance and capture rendered frames. It serves as a sub-component of [LARD](https://github.com/deel-ai/LARD), a dataset generation framework for aircraft visual landing.
+
+It uses a backend server to remotely control a CesiumJS 3D globe instance and capture rendered frames. It uses a Flask-SocketIO server for real-time, bidirectional communication and a simple RESTful API for control.
 
 This system is ideal for applications requiring automated scene generation, data collection, and simulation in a geospatial context.
 
